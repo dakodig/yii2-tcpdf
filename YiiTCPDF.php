@@ -1,6 +1,6 @@
 <?php
 
-namespace dakwahkodingdigital\yii2tcpdf;
+namespace dakodig\yii2tcpdf;
 
 require_once(dirname(__FILE__) . '/tcpdf/tcpdf.php');
 
