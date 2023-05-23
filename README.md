@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist dakwahkodingdigital/yii2-tcpdf "*"
+php composer.phar require --prefer-dist dakodig/yii2-tcpdf "*"
 ```
 
 or add
 
 ```
-"dakwahkodingdigital/yii2-tcpdf": "*"
+"dakodig/yii2-tcpdf": "*"
 ```
 
 to the require section of your `composer.json` file.
