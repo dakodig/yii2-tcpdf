@@ -1,5 +1,5 @@
 {
-    "name": "dakwahkodingdigital/yii2-tcpdf",
+    "name": "dakodig/yii2-tcpdf",
     "version": "1.0.0",
     "description": "Memudahkan Install extension TCPDF ke Yii2 Framework Project",
     "type": "yii2-extension",
@@ -23,13 +23,13 @@
     },
     "autoload": {
         "psr-4": {
-            "dakwahkodingdigital\\yii2tcpdf\\": ""
+            "dakodig\\yii2tcpdf\\": ""
         }
     },
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/dakwahkodingdigital/yii2-tcpdf"
+            "url": "https://github.com/dakodig/yii2-tcpdf"
         }
     ]
 }
