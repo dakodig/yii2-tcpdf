@@ -16,7 +16,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "php": ">=7.0",
-        "tcpdf/tcpdf": "~6.9.0"
+        "tcpdf/tcpdf": "*"
     },
     "autoload": {
         "psr-4": {
